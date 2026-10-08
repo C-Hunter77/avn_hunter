@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Government Plaza",
+    "type": "LOCATION",
+    "description": "Administrative stronghold shrouded in surveillance fog.",
+    "access": "RESTRICTED"
+  },
+  {
+    "name": "The Pit",
+    "type": "LOCATION",
+    "description": "An excavation site repurposed as a bio-mechanical disposal zone.",
+    "access": "DENIED"
+  },
+  {
+    "name": "Outskirts",
+    "type": "LOCATION",
+    "description": "Refuge settlements where unauthorized transmissions spread.",
+    "access": "LIMITED"
+  }
+]
