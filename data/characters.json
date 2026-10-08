@@ -1,0 +1,20 @@
+[
+  {
+    "name": "AVN",
+    "type": "SUBJECT",
+    "description": "Primary observer target. Memory integrity unstable.",
+    "access": "RESTRICTED"
+  },
+  {
+    "name": "Observers",
+    "type": "MACHINE",
+    "description": "Recon units that classify emotional response as a tactical metric.",
+    "access": "LIMITED"
+  },
+  {
+    "name": "Scuttlers",
+    "type": "MACHINE",
+    "description": "Ground harvesters active near abandoned transit systems.",
+    "access": "LIMITED"
+  }
+]

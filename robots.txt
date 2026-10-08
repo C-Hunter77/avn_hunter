@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c-hunter77.github.io/avn_hunter/sitemap.xml
